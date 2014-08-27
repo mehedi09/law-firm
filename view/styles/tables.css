@@ -1,0 +1,274 @@
+/*
+Template Name: News Magazine
+File: Tables CSS
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+
+/*table{
+	width:100%;
+	border-collapse:collapse;
+	table-layout:auto;
+	vertical-align:top;
+	margin-bottom:15px;
+	border:1px solid #CCCCCC;
+	}
+
+table thead th{
+	color:#FFFFFF;
+	background-color:#666666;
+	border:1px solid #CCCCCC;
+	border-collapse:collapse;
+	text-align:center;
+	table-layout:auto;
+	vertical-align:middle;
+	}
+
+table tbody td{
+	vertical-align:top;
+	border-collapse:collapse;
+	border-left:1px solid #CCCCCC;
+	border-right:1px solid #CCCCCC;
+	}
+	
+table thead th, table tbody td{
+	padding:5px;
+	border-collapse:collapse;
+	}
+
+table tbody tr.light{
+	color:#666666;
+	background-color:#F7F7F7;
+	}
+
+table tbody tr.dark{
+	color:#666666;
+	background-color:#E8E8E8;
+	}*/
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+/* table */
+
+.tableBasic
+{
+    border-collapse:collapse;
+}
+
+.tableBasic caption
+{
+   background-color: #0c455c;
+   color:#FFF;
+   padding-left: 100px;
+   padding-right: 100px;
+   text-transform: uppercase;
+   
+   text-align: center;
+}
+
+.tableBasic tr.even
+{
+    background-color: #EEE;
+}
+
+.tableBasic th.head
+{
+   background-color: navy;
+   color:#FFF;
+   padding-left: 100px;
+   padding-right: 100px;
+   text-transform: uppercase;
+   
+   text-align: center;
+}
+
+.tableBasic td
+{
+   color:black;
+   padding-left: 90px;
+  
+   text-align: center;
+}
+
+
+/* add_item table */
+
+.add_item_table
+{
+    border-collapse:collapse;
+}
+
+.add_item_table caption
+{
+   background-color: #0c455c;
+   color:#FFF;
+   padding-left: 12px;
+   padding-right: 12px;
+   text-transform: uppercase;
+   border:1px solid #ccc;
+   text-align: center;
+}
+
+.add_item_table tr.even
+{
+    background-color: #EEE;
+    padding-top: 12px; 
+}
+
+.add_item_table th.head
+{
+   background-color: navy;
+   color:#FFF;
+   padding-left: 12px;
+   padding-right: 12px;
+   text-transform: uppercase;
+   border:1px solid #ccc;
+   text-align: center;
+}
+
+.add_item_table td
+{
+   color:black;
+   padding-left: 6px;
+   padding-right: 6px;
+   border:1px solid #ccc;
+   text-align: center;
+}
+
+
+.sign_up_form
+{
+background-color: white;
+font-size: large;
+
+table-layout: auto;
+
+
+}
+
+.sign_up_table tr
+{
+    background: #EEE;
+}
+
+.sign_up_table td
+{
+    background: inherit;
+}
+
+
+.add_button 
+{
+    border: none;
+    background:inherit no-repeat top left;
+    padding: 10px 560px;
+    
+}
+
+
+
+/*view table*/
+.view_table
+{
+    border-collapse:collapse;
+}
+
+.view_table caption
+{
+   background-color: #0c455c;
+   color:#FFF;
+   padding-left: 100px;
+   padding-right: 100px;
+   text-transform: uppercase;
+   
+   text-align: center;
+}
+
+.view_table tr.even
+{
+    background-color: #EEE;
+}
+
+.view_table th.head
+{
+   background-color: navy;
+   color:#FFF;
+   padding-left: 100px;
+   padding-right: 100px;
+   text-transform: uppercase;
+   
+   text-align: center;
+}
+
+.view_table  td
+{
+   color:black;
+   padding-left: 90px;
+    padding-right: 100px;
+   text-align: center;
+}
+
+
+
+/*view case*/
+.view_case
+{
+    border-collapse:collapse;
+}
+
+.view_case caption
+{
+   background-color: #0c455c;
+   color:#FFF;
+    padding-left: 65px;
+    padding-right: 60px;
+   text-transform: uppercase;
+   
+   text-align: center;
+}
+
+.view_case tr.even
+{
+    background-color: #EEE;
+}
+
+.view_case th.head
+{
+   background-color: navy;
+   color:#FFF;
+    padding-left: 65px;
+    padding-right: 60px;
+   text-transform: uppercase;
+   
+   text-align: center;
+}
+
+.view_case  td
+{
+   color:black;
+   padding-left: 65px;
+    padding-right: 60px;
+   text-align: center;
+}
+
+
+
+
+
+
+
+
+
+

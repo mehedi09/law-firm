@@ -1,0 +1,112 @@
+.sign_up_form
+{
+background-color: white;
+font-size: large;
+
+table-layout: auto;
+
+
+}
+
+.sign_up_table tr
+{
+    background: #EEE;
+}
+
+.sign_up_table td
+{
+    background: inherit;
+}
+
+
+.add_button 
+{
+    border: none;
+    background:inherit no-repeat top left;
+    padding: 10px 560px;
+    
+}
+
+/* table */
+
+.tableBasic
+{
+   
+}
+
+.tableBasic caption
+{
+   background-color: #0c455c;
+   color:#FFF;
+   text-transform: uppercase;
+  
+   text-align: center;
+}
+
+.tableBasic tr.even
+{
+    background-color: #EEE;
+}
+
+.tableBasic th.head
+{
+   background-color: navy;
+   color:#FFF;
+
+   text-transform: uppercase;
+  
+   text-align: center;
+}
+
+.tableBasic td
+{
+   color:black;
+   
+   
+   text-align: center;
+}
+
+
+/* add_item table */
+
+.add_item_table
+{
+    border-collapse:collapse;
+}
+
+.add_item_table caption
+{
+   background-color: #0c455c;
+   color:#FFF;
+   padding-left: 12px;
+   padding-right: 12px;
+   text-transform: uppercase;
+   border:1px solid #ccc;
+   text-align: center;
+}
+
+.add_item_table tr.even
+{
+    background-color: #EEE;
+    padding-top: 12px; 
+}
+
+.add_item_table th.head
+{
+   background-color: navy;
+   color:#FFF;
+   padding-left: 12px;
+   padding-right: 12px;
+   text-transform: uppercase;
+   border:1px solid #ccc;
+   text-align: center;
+}
+
+.add_item_table td
+{
+   color:black;
+   padding-left: 6px;
+   padding-right: 6px;
+   border:1px solid #ccc;
+   text-align: center;
+}
